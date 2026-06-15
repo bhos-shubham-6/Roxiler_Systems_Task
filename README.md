@@ -39,7 +39,7 @@ npm run dev
 
 Frontend run `http://localhost:3000`
 
-## Default Admin Credentials
+## Admin Credentials
 
  Email : admin@roxiler.com 
  Password : Admin@123 
