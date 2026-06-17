@@ -8,7 +8,7 @@ Create DB once:
 
 Add env file:
 
-PORT=5000
+```PORT=5000
 DB_MODE=mysql
 DATABASE_URL=postgresql://postgres:password@localhost:5432/roxiler_db
 MYSQL_HOST=127.0.0.1
@@ -17,7 +17,7 @@ MYSQL_USER=root
 MYSQL_PASSWORD=
 MYSQL_DATABASE=roxiler_db
 JWT_SECRET=your-super-secret-jwt-key-change-in-production
-JWT_EXPIRES_IN=24h
+JWT_EXPIRES_IN=24h ```
 
    add your MYSQL_PORT and MYSQL_PASSWORD
 
